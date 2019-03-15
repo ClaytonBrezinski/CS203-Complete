@@ -1,0 +1,25 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/CS203A4Q1/nbproject/private/
+/CS203A4Q2/nbproject/private/
+/CS203A4Q3/nbproject/private/
+/CS203A4Q4/nbproject/private/
+/CS203A4Q5/nbproject/private/
+/CS203A4Q1/build/
+/CS203A4Q1/dist/
+/CS203A4Q5/build/
+/CS203A4Q5/Part 1/dist/
+/CS203A4Q5/Part 2/DisplayRecordSequentially/nbproject/private/
+/CS203A4Q4/build/
+/CS203A4Q3/build/
+/CS203A4Q2/build/
